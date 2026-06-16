@@ -25,15 +25,9 @@ The Expense Tracker is a Python-based application that helps users record, manag
 ## Project Structure
 
 ExpenseTracker/
-
-│
-
-├── main.py
-
+│├── main.py
 ├── file_handler.py
-
 ├── expenses.csv
-
 └── README.md
 
 ## How to Run
